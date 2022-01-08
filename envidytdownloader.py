@@ -2,9 +2,8 @@
 
 import pytube
 from pytube import YouTube
-print('''               EnVideoYT DOWNLOADER
-                        ❦ᴱⁿⱽⁱᵈʸᵀᴰᵂ
-                Created by @E4crypt3d''')
+# By E4crypt3d
+
 def downloadVideo():
 	URL = input("Paste the URL of the video: ")
 	if type(URL) == str:
